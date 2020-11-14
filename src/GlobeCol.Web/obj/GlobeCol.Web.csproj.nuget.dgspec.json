@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Web\\GlobeCol.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj",
+        "projectName": "GlobeCol.Core",
+        "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj",
+        "packagesPath": "C:\\Users\\VALERIA BENITEZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VALERIA BENITEZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\GlobeCol.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\GlobeCol.Infrastructure.csproj",
+        "projectName": "GlobeCol.Infrastructure",
+        "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\GlobeCol.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\VALERIA BENITEZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VALERIA BENITEZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj": {
+                "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Web\\GlobeCol.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Web\\GlobeCol.Web.csproj",
+        "projectName": "GlobeCol.Web",
+        "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Web\\GlobeCol.Web.csproj",
+        "packagesPath": "C:\\Users\\VALERIA BENITEZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VALERIA BENITEZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj": {
+                "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Core\\GlobeCol.Core.csproj"
+              },
+              "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\GlobeCol.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\VALERIA BENITEZ\\GlobeCol\\src\\GlobeCol.Infrastructure\\GlobeCol.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

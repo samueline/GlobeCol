@@ -1,0 +1,9 @@
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\bin\Debug\netcoreapp3.1\GlobeCol.Core.deps.json
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\bin\Debug\netcoreapp3.1\GlobeCol.Core.dll
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\bin\Debug\netcoreapp3.1\GlobeCol.Core.pdb
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.csprojAssemblyReference.cache
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.AssemblyInfoInputs.cache
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.AssemblyInfo.cs
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.csproj.CoreCompileInputs.cache
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.dll
+C:\Users\VALERIA BENITEZ\GlobeCol\src\GlobeCol.Core\obj\Debug\netcoreapp3.1\GlobeCol.Core.pdb
